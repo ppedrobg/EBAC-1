@@ -32,7 +32,24 @@ Um controle especial é incluído para evitar a divisão por zero, exibindo uma 
 # 6. Exibição do resultado:
 Após realizar a operação, o resultado é mostrado no terminal.
 
+
 # 7. Pergunta de continuidade:
 O usuário é perguntado se deseja continuar usando a calculadora. Caso responda com "n" (não), o loop é encerrado e a função termina.
 
 
+# Execução do arquivo sh
+
+chmod +x exercicio_ebac.sh
+
+Este comando atribui permissão de execução ao arquivo exercicio_ebac.sh. Isso significa que o arquivo pode ser executado como um programa/script no sistema operacional.
+
+chmod 644 exercicio_ebac.sh
+
+Este comando altera as permissões do arquivo para 644, o que significa:
+Dono do arquivo: Leitura e escrita.
+Grupo: Apenas leitura.
+Outros usuários: Apenas leitura.
+
+python3 exercicio_ebac.sh 
+
+Este comando executa o arquivo em python
