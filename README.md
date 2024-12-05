@@ -39,7 +39,7 @@ O usuário é perguntado se deseja continuar usando a calculadora. Caso responda
 
 # Execução do arquivo sh
 
-cd modulo1/linux/exercicio/exercicio_ebac.sh
+cd modulo1/linux/exercicio
 
 Este comando direciona até o diretorio onde o arquivo foi salvo(caso não tenha os mesmos diretórios, atribua iguais ao o seu)
 
