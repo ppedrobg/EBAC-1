@@ -39,6 +39,10 @@ O usuário é perguntado se deseja continuar usando a calculadora. Caso responda
 
 # Execução do arquivo sh
 
+cd modulo1/linux/exercicio/exercicio_ebac.sh
+
+Este comando direciona até o diretorio onde o arquivo foi salvo(caso não tenha os mesmos diretórios, atribua iguais ao o seu)
+
 chmod +x exercicio_ebac.sh
 
 Este comando atribui permissão de execução ao arquivo exercicio_ebac.sh. Isso significa que o arquivo pode ser executado como um programa/script no sistema operacional.
