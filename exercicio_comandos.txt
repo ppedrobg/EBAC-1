@@ -1,7 +1,4 @@
-mkdir -p modulo1/linux/exercicio
-nano exercicio_ebac.sh
+cd modulo1/linux/exercicio/exercicio_ebac.sh
 chmod +x exercicio_ebac.sh 
-ll 
 chmod 644 exercicio_ebac.sh
-ll
 python3 exercicio_ebac.sh 
