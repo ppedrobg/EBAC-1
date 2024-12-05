@@ -1,4 +1,4 @@
-cd modulo1/linux/exercicio/exercicio_ebac.sh
+cd modulo1/linux/exercicio
 chmod +x exercicio_ebac.sh 
 chmod 644 exercicio_ebac.sh
 python3 exercicio_ebac.sh 
